@@ -17,7 +17,7 @@ It includes:
 ✔️ **Sample data** for testing  
 ✔️ **SQL queries** for retrieving delivery tracking information  
 
-This setup helps you understand **real-world database organization** and how to query related data across tables using **joins, aggregations, and filters**. :contentReference[oaicite:0]{index=0}
+### This setup helps you understand **real-world database organization** and how to query related data across tables using **joins, aggregations, and filters**. 
 
 
 ---
