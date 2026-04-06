@@ -35,6 +35,8 @@ Contains all item details which can be delivered.
 ### 🚛 Deliveries Table  
 Tracks orders or packages being delivered.
 
+---
+
 ### 🎯 Relationships
 
 - Each **delivery** belongs to a **user**  
