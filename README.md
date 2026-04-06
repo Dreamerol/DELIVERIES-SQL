@@ -59,32 +59,35 @@ Relational databases allow you to **connect data across tables** using foreign k
 
 ---
 
+
+
 ## 💻 Tech Stack
 
 <div align="left">
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> 
-<strong> SQL / MySQL</strong> – relational database design, queries, joins
-</p>
+<p>🗄️ <strong>SQL / MySQL</strong> – relational database design, queries, joins</p>
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20"/> 
-<strong> Relational Databases</strong> – schema design, normalization (3NF)
-</p>
+<p>🧩 <strong>Relational Databases</strong> – schema design, normalization (3NF)</p>
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> 
-<strong> Data Integrity</strong> – primary & foreign keys, constraints
-</p>
+<p>🔗 <strong>Data Integrity</strong> – primary & foreign keys, constraints</p>
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> 
-<strong> Query Optimization</strong> – joins, filtering, aggregations
-</p>
+<p>📊 <strong>Query Optimization</strong> – joins, filtering, aggregations</p>
+
 
 </div>
 
+
+---
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MySQL-Relational-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Database-Design-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Normalization-3NF-informational?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Joins-Queries-important?style=for-the-badge" />
+
+</div>
 
 ---
 
