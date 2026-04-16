@@ -1,4 +1,5 @@
-# 🚚 DELIVERY DATA MODEL – SQL LOGISTICS SYSTEM
+<h1 align="center">🚚 DELIVERY DATA MODEL – SQL LOGISTICS SYSTEM</h1>
+<p align="center">Database Design • Optimization • Real-world Logistics Simulation</p>
 
 
 
