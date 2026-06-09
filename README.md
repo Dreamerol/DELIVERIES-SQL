@@ -329,18 +329,7 @@ By exploring this project, you’ll gain experience with:
 ---
 
 
-<div align="center">
 
-## ⭐ Acknowledgements
-
-</div>
-
-
-<h2 align="center">
-  <i>🎉 Thanks to everyone exploring SQL database design and joining the delivery system learning journey!</i>
-</h2>
-
-<br>
 
 <h2 align="center">⭐ Feel free to explore repos and give a star if you find them interesting</h2>
 
