@@ -68,7 +68,7 @@ Tracks orders or packages being delivered.
 - Each **delivery** belongs to a **user**  
 - Deliveries are linked to items so you can fetch details like delivery contents, status, and schedule  
 
-Relational databases allow you to **connect data across tables** using foreign keys, keeping data consistent and easy to fetch. :contentReference[oaicite:1]{index=1}
+Relational databases use **foreign keys** to connect data across tables, ensuring consistency and enabling efficient queries.
 
 ---
 
