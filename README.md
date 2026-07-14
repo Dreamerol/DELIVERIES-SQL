@@ -131,7 +131,7 @@ Examples of real SQL usage:
 - Count deliveries per date  
 - Join users with their delivery records  
 
-These example queries demonstrate how to use SQL to retrieve meaningful insights from a relational dataset. :contentReference[oaicite:2]{index=2}
+These example SQL queries demonstrate how to retrieve meaningful insights from a relational database.
 
 
 ---
