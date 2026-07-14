@@ -305,30 +305,14 @@ By exploring this project, you’ll gain experience with:
 - Analyzing delivery data using joins and conditions  
 - Understanding database relationships and normalization
 
----
 
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Normalization-A78BFA?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MySQL-F97316?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Database_Design-22C55E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Normalization-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Joins_&_Queries-3B82F6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Indexing-EF4444?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Query_Optimization-F97316?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Transactions-6366F1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ACID_Properties-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Stored_Procedures-0EA5E9?style=for-the-badge" />
-
-
-</div>
 
 
 ---
 
 
+
+<br>
 
 
 <h2 align="center">⭐ Feel free to explore repos and give a star if you find them interesting</h2>
@@ -354,6 +338,89 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 <br>
+
+
+
+
+
+
+<br><br>
+
+
+
+
+
+<div align="center">
+  <a href="https://github.com/Dreamerol" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_77.PNG"
+      width="100%"
+      alt="Mihaela Koseva Banner"
+    />
+  </a>
+</div>
+
+
+
+
+
+<br><br>
+
+
+
+
+<table align="center" cellspacing="0" cellpadding="2">
+<tr>
+
+<td>
+<a href="https://www.linkedin.com/in/mihaela-koseva-software-engineer" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20LINKEDIN.png" height="130">
+</a>
+</td>
+
+<td>
+<a href="https://github.com/Dreamerol" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20GITHUB.png" height="130">
+</a>
+</td>
+
+<td>
+<a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20PORTFOLIO.png" height="130">
+</a>
+</td>
+
+<td>
+<a href="https://github.com/Dreamerol/CARDFOLIO" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20REPOSITORIES.png" height="130">
+</a>
+</td>
+
+<td>
+<a href="https://github.com/Dreamerol/ALLSTATS" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20STATS.png" height="130">
+</a>
+</td>
+
+<td>
+<a href="https://github.com/Dreamerol/RESUME" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20RESUME.png" height="130">
+</a>
+</td>
+
+</tr>
+</table>
+
+
+
+
+
+
+<br><br><br><br>
+
+
+
+
 
 
 
