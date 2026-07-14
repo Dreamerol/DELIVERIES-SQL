@@ -44,7 +44,7 @@ It includes:
 ✔️ **Sample data** for testing  
 ✔️ **SQL queries** for retrieving delivery tracking information  
 
-<p align="center"><i>🚀 Master <b>SQL joins, aggregations & filters</b>.</i></p>
+<h2 align="center"><i>🚀 Master <b>SQL joins, aggregations & filters</b>.</i></h2>
 
 
 
