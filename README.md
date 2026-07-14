@@ -47,26 +47,6 @@ It includes:
 <p align="center"><i>🚀 This setup helps you understand <b>real-world database organization</b> and how to query related data across tables using <b>joins, aggregations, and filters</b>.</i></p>
 
 
----
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Normalization-A78BFA?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MySQL-F97316?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Database_Design-22C55E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Normalization-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Joins_&_Queries-3B82F6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Indexing-EF4444?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Query_Optimization-F97316?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Transactions-6366F1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ACID_Properties-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Stored_Procedures-0EA5E9?style=for-the-badge" />
-
-
-
-</div>
-
 
 ---
 
