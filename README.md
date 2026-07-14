@@ -44,7 +44,7 @@ It includes:
 ✔️ **Sample data** for testing  
 ✔️ **SQL queries** for retrieving delivery tracking information  
 
-<p align="center"><i>🚀 This setup helps you understand <b>real-world database organization</b> and how to query related data across tables using <b>joins, aggregations, and filters</b>.</i></p>
+<p align="center"><i>🚀 Master <b>SQL joins, aggregations & filters</b>.</i></p>
 
 
 
