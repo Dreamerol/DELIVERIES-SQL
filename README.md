@@ -4,14 +4,23 @@
 
 
 
+<br>
+
+
+
+
+
+
 [![SQL Data](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/SQL.jpg)](https://dreamerol.github.io/MIHAELA-KOSEVA-AI/)
 
 
 
 
 
-
 <br>
+<br>
+<br>
+
 
 
 
